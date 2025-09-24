@@ -1,0 +1,12 @@
+.stats {
+    padding: 40px 40px;
+    background: #f8f9ff;
+    text-align: center;
+    font-size: 14px;
+    color: #666;
+
+    display: flex;              
+    justify-content: center;    
+    align-items: center;         
+    gap: 10px;                   
+}
